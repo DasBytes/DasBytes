@@ -22,21 +22,7 @@ I specialize in building mobile apps that are efficient, intuitive, and scalable
   
   
 
-<br/>  
 
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Languages and Tools  
