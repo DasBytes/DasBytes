@@ -76,4 +76,4 @@ I specialize in building mobile apps that are efficient, intuitive, and scalable
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
