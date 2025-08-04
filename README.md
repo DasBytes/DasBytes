@@ -53,7 +53,7 @@ I specialize in building mobile apps that are efficient, intuitive, and scalable
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasBytes&hide_border=true&layout=compact&bg_color=000000&text_color=ffffff&border_color=000000&title_color=ff79c6" align="left" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 10px rgba(255, 121, 198, 0.4);" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasBytes&hide_border=true&layout=compact&bg_color=0b1120&text_color=ffffff&border_color=0b1120&title_color=61dafb" align="left" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 10px rgba(97, 218, 251, 0.4);" />
 
 </td></tr></table>
 
