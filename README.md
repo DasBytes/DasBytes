@@ -15,9 +15,7 @@
 
 
 ### Glad to see you here!  
-I’m a passionate mobile and web developer who turned curiosity into craft and freelancing into a focused career. With hands-on experience in Android (Kotlin/Java), Flutter, and web technologies, I bring ideas to life through clean UI, smooth performance, and thoughtful user experiences.
-
-I specialize in building mobile apps that are efficient, intuitive, and scalable—supported by Firebase and modern backend services. Whether it’s crafting native Android apps or cross-platform solutions in Flutter, I aim to deliver products that feel light yet powerful, visually appealing yet highly functional. I’m also deeply interested in the evolving world of software—from app architecture and cloud integration to progressive web apps and real-time features.
+I’m a 4th-year CSE student and a passionate mobile and web developer with experience in Android (Kotlin/Java), Flutter, and modern web technologies. I build clean, intuitive, and scalable apps supported by Firebase and other backend services. Whether native or cross-platform, I aim to create products that look great, run smoothly, and offer meaningful user experiences.
 
   
   
